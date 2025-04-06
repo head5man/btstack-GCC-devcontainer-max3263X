@@ -1,3 +1,4 @@
 [submodule "btstack"]
 	path = btstack
-	url = https://github.com/bluekitchen/btstack.git
+	url = https://github.com/head5man/btstack.git
+	branch = max32630-example-build-fix
