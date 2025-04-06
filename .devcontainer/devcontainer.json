@@ -3,7 +3,7 @@
 {
 	"name": "Bluestack MAX32630",
 	"build": {
-		"dockerfile": "Dockerfile",
+		"dockerfile": "Dockerfile"
 	},
 	"runArgs": [
 	        "--cap-add=SYS_PTRACE",
@@ -18,8 +18,8 @@
 			"settings": {
 				"terminal.integrated.shell.linux": "/bin/bash",
 				"terminal.integrated.shellArgs.linux": ["--init-file", "scripts/init-env.sh"],
-                "update.mode": "manual",
-        		"extensions.autoUpdate": false
+				"update.mode": "manual",
+				"extensions.autoUpdate": false
 			},
 		
 			// Add the IDs of extensions you want installed when the container is created.
