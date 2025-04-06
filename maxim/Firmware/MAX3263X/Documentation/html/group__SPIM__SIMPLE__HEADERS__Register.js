@@ -1,0 +1,7 @@
+var group__SPIM__SIMPLE__HEADERS__Register =
+[
+    [ "MXC_F_SPIM_SIMPLE_HEADERS_TX_BIDIR_HEADER_POS", "group__SPIM__SIMPLE__HEADERS__Register.html#ga321bc77ab71762abc5305a6fe034b326", null ],
+    [ "MXC_F_SPIM_SIMPLE_HEADERS_TX_BIDIR_HEADER", "group__SPIM__SIMPLE__HEADERS__Register.html#ga262158d440df3d9554ca4a361c9cefed", null ],
+    [ "MXC_F_SPIM_SIMPLE_HEADERS_RX_ONLY_HEADER_POS", "group__SPIM__SIMPLE__HEADERS__Register.html#gaeb64749ca20a7bb75e2ce09a08828ae2", null ],
+    [ "MXC_F_SPIM_SIMPLE_HEADERS_RX_ONLY_HEADER", "group__SPIM__SIMPLE__HEADERS__Register.html#gae933d3736344ed856ce154095e01e23c", null ]
+];
