@@ -129,4 +129,5 @@ USER $USERNAME
 
 FROM user AS final
 
-ENV MAXIM_PATH="/workspaces/bluestack/maxim"
+# TODO: Some fancy way to inject the name for folder `.devcontainer/..` 
+ENV MAXIM_PATH="/workspaces/btstack-GCC-devcontainer-max3263X/maxim"
