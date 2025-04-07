@@ -131,3 +131,5 @@ FROM user AS final
 
 # TODO: Some fancy way to inject the name for folder `.devcontainer/..` 
 ENV MAXIM_PATH="/workspaces/btstack-GCC-devcontainer-max3263X/maxim"
+
+RUN pip3 install pycryptodomex
