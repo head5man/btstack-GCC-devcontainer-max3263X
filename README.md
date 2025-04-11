@@ -1,3 +1,7 @@
+# ! Changes are cooking ! 
+
+To be updated with the latest efforts in proof-of-concept branch [btstack-senseunit](https://github.com/head5man/btstack-GCC-devcontainer-max3263X/tree/btstack-senseunit)
+
 ## btstack max32630fthr build container
 
 ### extracting max32640 firmware support files from SDK
