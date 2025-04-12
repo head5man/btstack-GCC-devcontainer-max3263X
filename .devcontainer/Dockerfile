@@ -132,7 +132,7 @@ FROM user AS final
 # TODO: Some fancy way to inject the name for folder `.devcontainer/..` 
 ENV MAXIM_PATH="/workspaces/btstack-GCC-devcontainer-max3263X/maxim"
 
-# we have only one python and some of the scripts use python
-ln -s /usr/bin/python3 /usr/bin/python
-
 RUN pip3 install pycryptodomex
+
+# we have only one python and some of the scripts use python
+RUN sudo ln -s /usr/bin/python3 /usr/bin/python
