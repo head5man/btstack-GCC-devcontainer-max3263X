@@ -1,7 +1,7 @@
 [submodule "btstack"]
 	path = btstack
-	url = https://github.com/head5man/btstack.git
-	branch = max32630-example-build-fix
+	url = https://github.com/bluekitchen/btstack.git
+	branch = develop
 [submodule "apps/btstack-senseunit"]
 	path = apps/btstack-senseunit
 	url = https://github.com/head5man/btstack-senseunit.git
